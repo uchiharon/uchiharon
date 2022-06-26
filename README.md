@@ -45,19 +45,27 @@ src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
 <br/>
 
   
-  
+### Experience
+  -Data Wrangling ⚛ 
+    -Data Gathering
+    -Web Scraping
+    -DataBase Creation (SQL)
+    -Data cleaning
+  -Data Analysis 👩‍💻
+    -Descriptive Analysis
+    -AB texting
+    -Predictive Analysis
+    -Time Series Analysis
+    -Building Machine and Deep learning models
+  -Data Visualization 📈
+    -Dashboard
+    -Visual Reports
+  -Version Control 💻
+    -Git
+  -Cloud Computing for data analytics and science
+    -Azure
+    -AWS
 
-  👩‍💻 Python
-  📈 PowerBI
-  ⚛ SQL
-  💻 Git
-
-
-
-
-
-  
-  
   
   
   
