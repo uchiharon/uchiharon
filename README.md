@@ -46,23 +46,23 @@ src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
 
   
 ### Experience
--Data Wrangling ⚛ 
+- Data Wrangling ⚛ 
   -Data Gathering
   -Web Scraping
   -DataBase Creation (SQL)
   -Data cleaning
--Data Analysis 👩‍💻
+- Data Analysis 👩‍💻
   -Descriptive Analysis
   -AB texting
   -Predictive Analysis
   -Time Series Analysis
   -Building Machine and Deep learning models
--Data Visualization 📈
+- Data Visualization 📈
   -Dashboard
   -Visual Reports
--Version Control 💻
+- Version Control 💻
   -Git
--Cloud Computing for data analytics and science
+- Cloud Computing for data analytics and science
   -Azure
   -AWS
 
