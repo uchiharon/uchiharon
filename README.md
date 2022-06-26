@@ -69,6 +69,16 @@ src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
   
   
   
+  <br/>
+<br/>
+<br/>
+  
+---
+
+
+| <a href="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Maria's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&layout=compact&langs_count=7&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&layout=compact&langs_count=7&theme=react&hide_border=true" /></a> |
+| ------------- | ------------- |
+  
   
   
   
