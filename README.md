@@ -28,7 +28,7 @@ src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
 
 
   
-[<img align="left" alt="Alteryx" width="40px" src="https://iconape.com/wp-content/files/jq/351784/svg/351784.svg"/>][github]
+[<img align="left" alt="Alteryx" width="80px" src="https://iconape.com/wp-content/files/jq/351784/svg/351784.svg"/>][github]
 [<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>][github]
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>][github]
