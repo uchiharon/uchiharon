@@ -62,7 +62,7 @@ src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
   -Visual Reports
 - Version Control 💻
   -Git
-- Cloud Computing for data analytics and science
+- Cloud Computing for data analytics and science 🌩️
   -Azure
   -AWS
 
