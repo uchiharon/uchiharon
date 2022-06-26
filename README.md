@@ -17,17 +17,16 @@
 src="https://www.vectorlogo.zone/util/preview.html?image=/logos/twitter/twitter-official.svg" />][twitter]
 
   <br/>
-  <br/>
 
   
 
 
 
-Skills and Experience
-👩‍💻 Python
-📈 PowerBI
-⚛ SQL
-💻 Git
+## Skills and Experience
+  👩‍💻 Python
+  📈 PowerBI
+  ⚛ SQL
+  💻 Git
 
 
 
