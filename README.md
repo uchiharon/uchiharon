@@ -65,18 +65,12 @@ src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
 - Cloud Computing for data analytics and science 🌩️
   -Azure
   -AWS
-
-  
-  
-  
-  <br/>
 <br/>
 <br/>
   
 ---
 
-
-| <a href="https://github-readme-stats.vercel.app/api?username=uchiharon&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uchiharon&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Emmanuel's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=uchiharon&layout=compact&langs_count=7&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchiharon&layout=compact&langs_count=7&theme=react&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=uchiharon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uchiharon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Emmanuel's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=uchiharon&layout=compact&langs_count=7&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchiharon&layout=compact&langs_count=7&hide_border=true" /></a> |
 | ------------- | ------------- |
   
   
